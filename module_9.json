@@ -1,0 +1,15 @@
+{
+  "name": "hyper-reactor-1285",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4115,
+    "createdAt": "2026-09-04T06:24:38.340Z"
+  }
+}
